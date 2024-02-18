@@ -1,0 +1,5 @@
+Using the raylib parser, I keep a JSON version of the APIs here.
+
+* Commands Used
+- raylib_parser --input ../external/raylib/src/raylib.h --output raylib.json --format JSON
+- raylib_parser --input ../external/raylib/src/raymath.h --output raymath.json --format JSON
